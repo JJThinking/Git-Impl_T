@@ -1,1 +1,1 @@
-Git implementation testing. 
+Git implementation.
